@@ -20,4 +20,4 @@ You can filter through the dogs with the filter button up top
 
 Finally you can find your match
 
-![match image](./images/match.png)
+![match image](./images/matchimage.png)
